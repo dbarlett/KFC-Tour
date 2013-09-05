@@ -1,6 +1,6 @@
 KFC-Tour
 ========
-
+![Screenshot of tour plotted on OpenStreetMap basemap](http://i.imgur.com/20Mg7YI.png)
 Optimal tours of KFC locations, via the [Concorde](http://www.math.uwaterloo.ca/tsp/concorde/index.html) cutting-plane-based exact TSP solver.
 Inspired by a [Hacker News comment](https://news.ycombinator.com/item?id=6324462).
 
