@@ -1,4 +1,10 @@
+# Concorde solver
 concorde
+*.mas
+*.pul
+*.sav
+*.sol
+*.gz
 
 *.py[cod]
 
