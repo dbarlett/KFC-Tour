@@ -17,3 +17,7 @@ python kfc_tour.py
 ```
 
 The resulting .kml file can be plotted with Google Earth or [GPS Visualizer](http://www.gpsvisualizer.com).
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dbarlett/kfc-tour/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
