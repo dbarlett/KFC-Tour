@@ -1,7 +1,7 @@
 KFC-Tour
 ========
 
-Optimal tours of KFC locations, inspired by [https://news.ycombinator.com/item?id=6324462].
+Optimal tours of KFC locations, inspired by a [Hacker News comment](https://news.ycombinator.com/item?id=6324462).
 
 Tested on Ubuntu 12.10 64-bit.
 
@@ -15,4 +15,4 @@ chmod u+x concorde
 python kfc_tour.py
 ```
 
-The resulting .kml file can be plotted with Google Earth or [GPS Visualizer](http://www.gpsvisualizer.com)
+The resulting .kml file can be plotted with Google Earth or [GPS Visualizer](http://www.gpsvisualizer.com).
