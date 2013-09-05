@@ -1,7 +1,8 @@
 KFC-Tour
 ========
 
-Optimal tours of KFC locations, inspired by a [Hacker News comment](https://news.ycombinator.com/item?id=6324462).
+Optimal tours of KFC locations, via the [Concorde](http://www.math.uwaterloo.ca/tsp/concorde/index.html) cutting-plane-based exact TSP solver.
+Inspired by a [Hacker News comment](https://news.ycombinator.com/item?id=6324462).
 
 Tested on Ubuntu 12.10 64-bit.
 
