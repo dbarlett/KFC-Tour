@@ -7,7 +7,6 @@ Inspired by a [Hacker News comment](https://news.ycombinator.com/item?id=6324462
 Tested on Ubuntu 12.10 64-bit.
 
 Installation & usage:
-
 ```bash
 pip install -r requirements.txt
 wget http://www.math.uwaterloo.ca/tsp/concorde/downloads/codes/linux24/concorde.gz
